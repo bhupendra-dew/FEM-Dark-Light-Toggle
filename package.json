@@ -1,0 +1,20 @@
+{
+  "name": "fem-dark-light-toggle",
+  "version": "1.0.0",
+  "description": "![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhupendra-dew/FEM-Dark-Light-Toggle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhupendra-dew/FEM-Dark-Light-Toggle/issues"
+  },
+  "homepage": "https://github.com/bhupendra-dew/FEM-Dark-Light-Toggle#readme"
+}
